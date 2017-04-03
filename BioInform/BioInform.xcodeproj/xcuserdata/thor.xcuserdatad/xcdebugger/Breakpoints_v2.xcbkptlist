@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BioInform/Presenters.swift"
+            timestampString = "480633164.614456"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "prepareForSegue(_:sender:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BioInform/Presenters.swift"
+            timestampString = "480633164.614456"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "tableView(_:cellForRowAtIndexPath:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0xd1aec">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BioInform.SplashViewController.viewDidLoad (BioInform.SplashViewController)() -&gt; ()"
+                  moduleName = "BioInform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thor/Documents/BioInform/BioInform/SplashViewController.swift"
+                  timestampString = "479702855.478556"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BioInform/SplashViewController.swift"
+            timestampString = "479939591.446521"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BioInform/SplashViewController.swift"
+            timestampString = "479939698.665619"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "SplashMainViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BioInform.SplashViewController.pageControlVar.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIPageControl&gt;"
+                  moduleName = "BioInform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thor/Documents/BioInform/BioInform/SplashViewController.swift"
+                  timestampString = "479939702.934137"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BioInform.SplashViewController.pageControlVar.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIPageControl&gt;"
+                  moduleName = "BioInform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thor/Documents/BioInform/BioInform/SplashViewController.swift"
+                  timestampString = "479939702.934307"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BioInform.SplashViewController.init (BioInform.SplashViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; BioInform.SplashViewController"
+                  moduleName = "BioInform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thor/Documents/BioInform/BioInform/SplashViewController.swift"
+                  timestampString = "479939702.934504"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "173">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BioInform.SplashViewController.init (BioInform.SplashViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;BioInform.SplashViewController&gt;"
+                  moduleName = "BioInform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thor/Documents/BioInform/BioInform/SplashViewController.swift"
+                  timestampString = "479939702.934772"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BioInform/ModelSplashViewController.swift"
+            timestampString = "480561646.022453"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "SplashViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BioInform.SplashViewController.pageControlVar.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIPageControl&gt;"
+                  moduleName = "BioInform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thor/Documents/BioInform/BioInform/ModelSplashViewController.swift"
+                  timestampString = "480112555.709278"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BioInform.SplashViewController.pageControlVar.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIPageControl&gt;"
+                  moduleName = "BioInform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thor/Documents/BioInform/BioInform/ModelSplashViewController.swift"
+                  timestampString = "480112555.709446"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BioInform.SplashViewController.init (BioInform.SplashViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; BioInform.SplashViewController"
+                  moduleName = "BioInform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thor/Documents/BioInform/BioInform/ModelSplashViewController.swift"
+                  timestampString = "480112555.709625"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BioInform.SplashViewController.init (BioInform.SplashViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;BioInform.SplashViewController&gt;"
+                  moduleName = "BioInform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thor/Documents/BioInform/BioInform/ModelSplashViewController.swift"
+                  timestampString = "480112555.709771"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BioInform/AbstractsTableViewController.swift"
+            timestampString = "480633470.658342"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "retrieveJSONfromFile()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BioInform/SplashMainViewController.swift"
+            timestampString = "480631048.755544"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BioInform.SplashMainViewController.viewDidLoad (BioInform.SplashMainViewController)() -&gt; ()"
+                  moduleName = "BioInform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thor/Documents/BioInform/BioInform/SplashMainViewController.swift"
+                  timestampString = "480631053.409125"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "1836">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BioInform.SplashMainViewController.(viewDidLoad (BioInform.SplashMainViewController) -&gt; () -&gt; ()).(closure #1)"
+                  moduleName = "BioInform"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thor/Documents/BioInform/BioInform/SplashMainViewController.swift"
+                  timestampString = "480631053.409297"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BioInform/MainDetailsViewController.swift"
+            timestampString = "512524707.64017"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "jsonDataToTable(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BioInform/MainDetailsViewController.swift"
+            timestampString = "512524707.64017"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "jsonDataFromURL(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
